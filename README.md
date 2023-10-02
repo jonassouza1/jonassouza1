@@ -26,6 +26,6 @@
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
  
-[gif](https://github.com/Platane/jonassouza1/raw/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/jonassouza1/raw/output/github-contribution-grid-snake.svg)
+[gif](https://github.com/Platane/jonassouza1/jonassouza1/output/github-contribution-grid-snake.gif) or [svg](https://github.com/Platane/jonassouza1/jonassouza1/output/github-contribution-grid-snake.svg)
 
 </div>
