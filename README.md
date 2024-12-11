@@ -18,7 +18,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
    <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-plain.svg" height="25" alt="node logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" height="25" alt="node logo"  />
 </div>
  
  <br>
