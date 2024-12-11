@@ -15,6 +15,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="25" alt="docker logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript.svg" height="25" alt="typescript logo"  />
+   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node.svg" height="25" alt="typescript logo"  />
 </div>
  
  <br>
