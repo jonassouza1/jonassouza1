@@ -20,8 +20,8 @@
 </div>
  <br>
   <h3>me segue no link abaixo!</h3>
-<div>
   <a href="https://www.linkedin.com/in/jonas-souza-7b4948268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6By8ukLEQPOcaT671G6wcQ%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <br/>
   <picture align="center">
    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jonassouza1/jonassouza1/output/github-contribution-grid-snake-dark.svg">
    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jonassouza1/jonassouza1/output/github-contribution-grid-snake-dark.svg">
