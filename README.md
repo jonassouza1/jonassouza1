@@ -16,9 +16,26 @@
 </div>
  <br>
   <h3>me segue no link abaixo!</h3>
-  <a href="https://www.linkedin.com/in/jonas-souza-7b4948268?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6By8ukLEQPOcaT671G6wcQ%3D%3D" target="_blank">
-   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"  />
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/jonas-souza-7b4948268" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://www.instagram.com/jonasrochades/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.behance.net/jonassouza305" target="_blank">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+
+  <a href="https://www.canva.com/design/DAFxLz7yVt4/5O8eYzwjOEoBkL14Azok_Q/view?utm_content=DAFxLz7yVt4&utm_campaign=designshare&utm_medium=link&utm_source=editor" target="_blank">
+    <img src="https://img.shields.io/badge/Currículo-00C4CC?style=for-the-badge&logo=read-the-docs&logoColor=white" />
+  </a>
+
+</div>
+
 </div>
 <br/>
 
