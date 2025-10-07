@@ -1,6 +1,6 @@
-## 👋 Olá! Eu sou o Jonas Souza
+## 👋 Olá! Eu sou Jonas Souza
 
-Sou desenvolvedor web full stack com experiência em projetos freelancer utilizando tecnologias modernas como **React**, **Next.js**, **Node.js**, entre outras. Gosto de construir aplicações completas, do front ao back, sempre buscando performance, clareza e um bom design de código.
+ Desenvolvedor web full stack com experiência em projetos freelancer utilizando tecnologias modernas como **React**, **Next.js**, **Node.js**, entre outras. Gosto de construir aplicações completas, do front ao back, sempre buscando performance, clareza e um bom design de código.
 
 ---
 
